@@ -1,7 +1,8 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-color:#dddddd;
+/*     background-color:#dddddd; */
+    background: linear-gradient(to top left, #28b487, #7dd56f);
 }
 
 .headline{
